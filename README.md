@@ -1,1 +1,1 @@
-# nim-docs-l10n
+# Localization of the Nim language documentation
